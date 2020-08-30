@@ -5,6 +5,8 @@
 - Graduating in 2020 (Hopefully :stuck_out_tongue_closed_eyes:)
 - From Jaipur, Rajasthan :camel:
 
+<img align="right" alt="GIF" src="https://i.imgur.com/OTKgDSt.gif" width="400" height="300" />
+
 ### :computer: Technologies
 - Loves to code in Python
 - Deep Learning enthusiast
