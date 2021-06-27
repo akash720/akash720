@@ -1,8 +1,7 @@
 # Hi, I'm Akash 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=akash720.readme)
 
 ### :book: About Me
-- Currently doing my B.Tech in Computer Science
-- Graduating in 2020 (Hopefully :stuck_out_tongue_closed_eyes:)
+- B.Tech in Computer Science
 - From Jaipur, Rajasthan :camel:
 
 <img align="right" alt="GIF" src="https://i.imgur.com/OTKgDSt.gif" width="400" height="300" />
