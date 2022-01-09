@@ -11,7 +11,7 @@
 - Deep Learning enthusiast
 
 ### :pencil2: Projects
-- [MoodMusics](https://github.com/akash720/moodmusics) - [Webiste](https://moodmusics.herokuapp.com)
+- [MoodMusics](https://github.com/akash720/moodmusics) - [Website](https://moodmusics.herokuapp.com)
 - [Face Mask Detection](https://github.com/akash720/face-mask-detection)
 - [Facial Expression Recognition](https://github.com/akash720/Facial-expression-recognition)
 
